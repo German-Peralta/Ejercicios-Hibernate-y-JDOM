@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concesionario>
+  <coches>
+    <coche id="1">
+      <Matricula>8552</Matricula>
+      <Marca Precio="caro">audi</Marca>
+      <Precio Moneda="euros">500000</Precio>
+    </coche>
+    <coche id="2">
+      <Matricula>7897987</Matricula>
+      <Marca Precio="barato">bmw</Marca>
+      <Precio Moneda="liras">95</Precio>
+    </coche>
+  </coches>
+</concesionario>

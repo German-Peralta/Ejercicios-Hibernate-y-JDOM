@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<concesionario>
+    <coches>
+        <coche>
+            <matricula>789</matricula>
+            <marca>audi</marca>
+            <precio>2135</precio>
+        </coche>
+        <coche>
+            <matricula>8979</matricula>
+            <marca>bmw</marca>
+            <precio>878665</precio>
+        </coche>
+        <coche>
+            <matricula>8754</matricula>
+            <marca>seat</marca>
+            <precio>545787</precio>
+        </coche>
+    </coches>
+</concesionario>

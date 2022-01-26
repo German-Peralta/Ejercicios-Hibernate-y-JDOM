@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concesionario>
+  <coches>
+    <coche id="1">
+      <matricula>456</matricula>
+      <marca at_1="buena">AUDI</marca>
+      <precio at_2="caro">450000</precio>
+    </coche>
+    <coche id="2">
+      <matricula>789</matricula>
+      <marca at_1="malo">BMW</marca>
+      <precio at_2="2000">barato</precio>
+    </coche>
+    <coche id="3">
+      <matricula>4789</matricula>
+      <marca at_1="buena">TESLA</marca>
+      <precio at_2="barato">78000</precio>
+    </coche>
+  </coches>
+</concesionario>

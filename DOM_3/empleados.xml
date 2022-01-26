@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Empleados>
+    <Empleado>
+        <Id>1</Id>
+        <Apellido>peralta</Apellido>
+        <Nombre>contabilidad</Nombre>
+        <Nombre>600</Nombre>
+    </Empleado>
+    <Empleado>
+        <Id>2</Id>
+        <Apellido>Heroe</Apellido>
+        <Nombre>programacion</Nombre>
+        <Nombre>1000000</Nombre>
+    </Empleado>
+    <Empleado>
+        <Id>3</Id>
+        <Apellido>marcos</Apellido>
+        <Nombre>cafeteria</Nombre>
+        <Nombre>50</Nombre>
+    </Empleado>
+</Empleados>

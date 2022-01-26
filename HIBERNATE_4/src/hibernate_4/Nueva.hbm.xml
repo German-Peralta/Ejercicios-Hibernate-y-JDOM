@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated 24-mar-2021 22:29:00 by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="hibernate_4.Nueva" table="nueva" catalog="examen" optimistic-lock="version">
+        <id name="codDepartamentoN" type="string">
+            <column name="cod_departamento_n" length="2" />
+            <generator class="assigned" />
+        </id>
+        <property name="nombreDepartamentoN" type="string">
+            <column name="nombre_departamento_n" length="10" />
+        </property>
+        <property name="localidadN" type="string">
+            <column name="localidad_n" length="10" />
+        </property>
+    </class>
+</hibernate-mapping>

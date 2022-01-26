@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concesionario>
+  <coches>
+    <coche>
+      <Matricula>QAZ</Matricula>
+      <Marca>AUDI</Marca>
+      <Precio>100000</Precio>
+    </coche>
+    <coche>
+      <Matricula>WSX</Matricula>
+      <Marca>TESLA</Marca>
+      <Precio>30000</Precio>
+    </coche>
+    <coche>
+      <Matricula>EDC</Matricula>
+      <Marca>SEAT</Marca>
+      <Precio>4500</Precio>
+    </coche>
+  </coches>
+</concesionario>
